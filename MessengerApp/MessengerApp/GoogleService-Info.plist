@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>309552494327-2l1fgjafq1e24rp87b4lh70ae5f804r1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.309552494327-2l1fgjafq1e24rp87b4lh70ae5f804r1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDoUL9TfYMqK68V6d-ZPXJzK6rerGyDqCI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>309552494327</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.github.cosminiulian.MessengerApp</string>
+	<key>PROJECT_ID</key>
+	<string>messengerapp-f7166</string>
+	<key>STORAGE_BUCKET</key>
+	<string>messengerapp-f7166.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:309552494327:ios:79ea23bc2e44461a7445f2</string>
+</dict>
+</plist>

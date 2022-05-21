@@ -1,0 +1,23 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'MessengerApp' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for MessengerApp
+
+  pod 'MessageKit'
+  pod 'JGProgressHUD'
+  pod 'SDWebImage'
+  pod 'IQKeyboardManagerSwift'
+  pod 'Alamofire', '~> 5.5'
+  # Firebase
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+  pod 'FirebaseFirestore', '~> 8.13'
+  pod 'FirebaseFirestoreSwift', '~> 8.13.0-beta'
+  pod 'Firebase/Storage'
+  pod 'Firebase/Crashlytics'
+
+end
