@@ -13,4 +13,3 @@ A real time chat application in Swift 5 using Firebase
 - User Profile
 - Dark Mode Support
 - Local Notifications
-- Programmatic UI (constraints)
